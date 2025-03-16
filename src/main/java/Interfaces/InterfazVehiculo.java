@@ -8,7 +8,7 @@ package Interfaces;
  *
  * @author mauri
  */
-public interface InterfazVeiculo  <T>{
+public interface InterfazVehiculo  <T>{
     
     T arrancar();
     T detener();
